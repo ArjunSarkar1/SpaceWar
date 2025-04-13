@@ -13,3 +13,12 @@ Player Control:
 * Up - `w`, Left - `a`, Down - `s`, Right - `d`
 * Enable Collision: `c`
 * Toggle Texturing: `t`
+
+## Prerequisites
+
+1) Install Processing on your local machine (if you haven't)
+2) Download repository through your terminal/command prompt
+   ```{bash}
+   git clone https://github.com/ArjunSarkar1/SpaceWar.git
+   ```
+3) Run game!
